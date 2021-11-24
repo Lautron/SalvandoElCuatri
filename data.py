@@ -4,8 +4,9 @@ content = {
             "AnMat2.pdf": "https://drive.google.com/file/d/1qseHpJbs-TMQB1l48pBHM7xjSVseabHh/view?usp=sharing",
             "Latex Overleaf": "https://www.overleaf.com/read/nktvftzcqfsg",
             },
-        "AnMat1 (Todo menos integrales)": {
+        "AnMat1 (Completo)": {
             "Deck Anki - Google sheets": "https://docs.google.com/spreadsheets/d/1bmzKSfc3gTP4XnnMhIJ9kdt_pgroiaTaRB9gvO46g3k/edit?usp=sharing",
+            "Paquete Anki": "https://drive.google.com/file/d/1dkbzM7bakr8QIUMXlMNJ67ksKkYfvtR7/view?usp=sharing",
             "AnMat1.pdf": "https://drive.google.com/file/d/11kHjplapZz4UsHBX89BkuE6jpORVh20b/view?usp=sharing",
             "Latex Overleaf": "https://www.overleaf.com/read/vbzvtpzchhry",
             },
